@@ -4,4 +4,4 @@ Tiene 23 años y dos gatos panzones.
 
 Es ingeniero y trabaja como supervisor.
 
-Está aprendiendo desarrollo web.
+Está aprendiendo desarrollo web con java.
